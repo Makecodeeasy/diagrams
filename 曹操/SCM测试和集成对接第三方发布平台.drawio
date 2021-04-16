@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T03:04:41.612Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="gxQRhc7rRjQyg73qbFbS" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T03:12:08.983Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="fkc5iz-58ohMc-iuSQ7k" version="14.6.0" type="github">
   <diagram id="-LPgbs2Pfr4KTK-yrl9k" name="Page-1">
-    <mxGraphModel dx="1550" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
             <mxPoint x="845" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bMpUHvNgEv0Hm8hHe3ty-6" value="&lt;span style=&quot;font-size: 10px&quot;&gt;执行publish_testops方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="bMpUHvNgEv0Hm8hHe3ty-6" value="&lt;span style=&quot;font-size: 10px&quot;&gt;执行&lt;br&gt;publish_testops&lt;br&gt;celery task&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="800" y="220" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bMpUHvNgEv0Hm8hHe3ty-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bMpUHvNgEv0Hm8hHe3ty-12" target="bMpUHvNgEv0Hm8hHe3ty-25" edge="1">
