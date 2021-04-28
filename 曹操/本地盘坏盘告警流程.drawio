@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T12:10:14.039Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="f7Q_92T6nmdjmFLiwAwO" version="14.6.1" type="github"><diagram id="i3r9SRX2nsmY7t9XxCH-" name="Page-1">1Vlbb6M4FP41lnYfOuISwDxCIF3NTGcqdVdtn1ZOMIEtiSPHaZL59WsbEyBQmjahdKRKtY/PMXAu33fsAHO82F1TtEpuSIQzYGjRDpgBMAzdsjT+T0j2uQTaMBfMaRoppVJwl/7CSqjs5ps0wuuaIiMkY+mqLpyR5RLPWE2GKCXbulpMsvpTV2iOG4K7Gcqa0vs0Yon6CsMp5X/hdJ4UT9ZtN19ZoEJZfck6QRHZVkRmCMwxJYTlo8VujDPhvMIvud3khdXDi1G8ZKcYWOntv6vnIL5N98kD/GZ+ffpbuzLVu7F98cE44t+vpoSyhMzJEmVhKfUp2SwjLHbV+KzU+U7Iigt1LvwPM7ZXwUQbRrgoYYtMreJdyh4q40ex1RdLzYKd2llO9sVkyej+oTqpWIlpaSZnhV3TS8pxa7KhM9zhGiPXE/6oGCrfXmOywPw5XIHiDLH0uZ4vSKXd/KCnTD1K0b6isCLpkq0rO98KAVcoKshR6aPqx9COovw2fT7I36DdutA+tj68LkN0jpmyqm1b8Ukpkin4hnRUPn9G2Ub584/xz9u7P0E4Ar4HoC8HPvBtEDrA9YGrg9AGMASeA0ILeCFwPSFxHamTK/tiCXrA0xvZXuaySMZtkjJ8t0IyL7Yc0Op5G6dZNiYZodLWjCwMoxGXrxklT7iyAo2padtd2feMKcO7zrxSq6N6RHSo5tsKGilRUgGi0VHgqolYi1pHiO6DdTIm6U28iK6f7uc/nH8m9AoOiRglSjxWQeIVxChB4rHY71XEOCr7VyGk1VcFYcmi6dCzz0SWswKqG78LB1w6MudieQM+zRfAtwf47Mq3CnwK9BwG9BoI1xKoF0HvmIcGR72iHa24VtLMBHgWCCHw+MCQfAMl3/ClsWAsIZkI4hEspQu1T4Oe+kfVmn0iCp5bk+cFeFBee18nXOe1ksl657WTIzoosdlNNLwJ/MuiIcIwnrWhoT2DeBr3g4aDg+GoHQzhwPg2VC9h9tJMWPbAzYTZEWV+oHI14OXHsJHgwfyEJo5hkvtgUB66hLILvCbC0oQsppv1m8sujrE9ay27yHGnmnaZsjvu5nT7tLqDvdWd83m6hxPPXnqNoU68rblMVZ5KUsMevtx39pV8mpedHHimqj/+15Yi39EUZ/WwoiydL/l4xj2LefX4olbSGco8tbBIoyjPILxOf6Gp3E8ESV1Z8c0tH1hBV7GpW1llDA53odWAdqT6i6V5pX0xTbdWncXd0XtRt1AhcbzGvQDq4SL4E5Rvd/P/CVrMk8vXMHphX/uo5zL1D2bflu5VnOV5vcMQ+PK2E06Aa78NHJrn0XACfE7XY7Gh78pb03xnruMCzmUwJ3BdkLlApEDSvlwSd62OAqvf75LhuMFqu2TQtY9srI3m/bfwtGsA6FYGloi/4AcezEDEvBkNdSluqWCKFDjEWXZsfkEvbtAW3ob5JcOLdR5gpy28ru2YqKfwmlp/4eXT8oe8HALKn0PN8H8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-28T01:29:03.487Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="vTeAPa2SQ3pYWhqBRMir" version="14.6.6" type="github">
+  <diagram id="i3r9SRX2nsmY7t9XxCH-" name="Page-1">
+    <mxGraphModel dx="1550" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5iP_pvDfPiyhX8K3JkT0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5iP_pvDfPiyhX8K3JkT0-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="200" />
+              <mxPoint x="170" y="200" />
+            </Array>
+            <mxPoint x="200" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5iP_pvDfPiyhX8K3JkT0-2" value="(COPS)事件监控定时任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="40" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="WDshCoiMfmdGkWgN7UFr-1" target="WDshCoiMfmdGkWgN7UFr-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WDshCoiMfmdGkWgN7UFr-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-1" value="COPS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-10" value="查询主机信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WDshCoiMfmdGkWgN7UFr-6" target="WDshCoiMfmdGkWgN7UFr-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WDshCoiMfmdGkWgN7UFr-6" target="WDshCoiMfmdGkWgN7UFr-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-6" value="CMDB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="200" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-14" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WDshCoiMfmdGkWgN7UFr-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-13" value="是否生产服务器" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="370" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WDshCoiMfmdGkWgN7UFr-16" target="WDshCoiMfmdGkWgN7UFr-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-19" value="查询主机负责人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WDshCoiMfmdGkWgN7UFr-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.339" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WDshCoiMfmdGkWgN7UFr-16" target="WDshCoiMfmdGkWgN7UFr-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfo5n5CU_1PRB5lx30hx-1" value="事件记录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDshCoiMfmdGkWgN7UFr-16" target="qfo5n5CU_1PRB5lx30hx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="200" />
+              <mxPoint x="710" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-16" value="COPS获取主机负责人信息，并发送告警通知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="560" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WDshCoiMfmdGkWgN7UFr-22" value="钉钉工作通知接口，电话告警接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="560" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfo5n5CU_1PRB5lx30hx-2" value="CMDB主机事件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
