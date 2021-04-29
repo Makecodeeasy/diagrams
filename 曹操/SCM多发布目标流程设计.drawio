@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T07:01:55.872Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="0Wa6UjZnbs3duWfelRO-" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T07:04:01.216Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="mXT5xzPygM6_2cRYLVg2" version="14.6.6" type="github">
   <diagram id="-LPgbs2Pfr4KTK-yrl9k" name="Page-1">
     <mxGraphModel dx="1550" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
         <mxCell id="g1Vp_xs4JSrdl10Znk2k-14" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Jenkins job&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1151" y="310" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NLi0mUn-bnaNOrzXobwQ-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g1Vp_xs4JSrdl10Znk2k-20" target="NLi0mUn-bnaNOrzXobwQ-13">
+        <mxCell id="NLi0mUn-bnaNOrzXobwQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g1Vp_xs4JSrdl10Znk2k-20" target="NLi0mUn-bnaNOrzXobwQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NLi0mUn-bnaNOrzXobwQ-19" value="发布回调" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NLi0mUn-bnaNOrzXobwQ-14">
