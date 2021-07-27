@@ -1,1 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T09:09:22.112Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="g8Ju3vIrjdgFSLwsbSUB" version="14.9.1" type="github"><diagram id="wjQlgHkREV75fNfG-BaF" name="Page-1">1VnLctowFP0aLdvx2/LSBtN0Jp2kzaLJ0sGK7cZYjBAF+vWVZPktKAlgmhW6Vw/L5577MsCcLLZfSLRMv+EY5cDQ4i0wp8AwdNvW2A/X7EoNNO1SkZAslosaxUP2B0ml3JessxitOgspxjnNll3lHBcFmtOOLiIEb7rLXnDefeoyStBA8TCP8qH2ZxbTVL6F4Tb6G5QlafVk3fHKmUVULZZvskqjGG9aKjME5oRgTMvRYjtBOQevwqXcN9szW1+MoIIes+G78XB3c6NPwsfkXn/58Wi9xl8/SWOs6K56YRSz95ciJjTFCS6iPGy0AcHrIkb8VI1JzZpbjJdMqTPlL0TpThozWlPMVCld5HIWbTP62Bo/8aM+21KabuXJQthJobwnv9ze15eqFV6TOTrwzhWNIpIgemCdVRuJsRvhBaJkx/YRlEc0+929RyRpltTrGkuwgTTGGwwjz/0d5Wv5JBDaIJgAqPGB7wIYgNACAQQBm4LA1wGc8Ck4A54uFkMAzYF9G+tx+DdpRtHDMhKAbZgLdy0lL4EIRdvDuA9xkhtcSX/p/7on5U3jTXrl7GnLk6rAcXZkXQWyAkc4FYMpCGYgdIFnAR8KQNmUwzVBAKD1LtBHdKrGkZ7afqR0KmZCsmtt4uJTdR4Xmm1CuoAzWkc6o3NNZ4Rqynxwplwp/B5rce9Ei8ut9zhjN6zDka134xErUbpHlPeSu3q8qa/xfipZCip5PKhDD4QOD+q+dxRx2GJfzMq0MBtG+hQvnterUaK84fTCvGsPw7ylCPPwUmHeUSZQGAJvxrHzJgLxIazCGMx/GfRByKeunUD7GdRWJFBDgaxzKWQ9NYVtkUBdHhb98EzRcGys63alojFU0HhUsHVVIcjoyxDTRMCo0A584A0BZE3Hkg/nuzxjSBLz3zA+l5jfPteKaP6aCEvcrSk7Bkn9qkwwun0m7GEXe2vIc2fMAKKrIojHqRvYfOAx5AWZoQt8X5DZb+qAwBVmcriZBjm+iH3emjKpwBzOII5WaU3zli24/j6iFJFCaAyNG3BFCX6t21HjnSm9Kf7apV+rErx88bcnxbcsbh/oDE6sBByvVwn0O47y+oNKYHAQ1K5bUlTxqJ/q3h5+h/S+dkDuY6sMyEqS2Pv5cFJYMFQB2eKdAEOMd+ZT4EFFQvwgLeHlvftUt+0X8FbP0se6bf+gOq+P5bbwmpy4UvNXfjc9Oyn67YfpjByCVR+VbMAyjD9rVQYO7zmg1uo/jqmJZ6qj/rvSudelmIrybdzvfIaqT/mQn1AH7L4gtkxs/pIo3aP5Y8cM/wI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-27T09:11:48.739Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="GiQwuOd0miCbBrgEfyES" version="14.9.1" type="github">
+  <diagram id="wjQlgHkREV75fNfG-BaF" name="Page-1">
+    <mxGraphModel dx="1550" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q2SOHH1CEXgP1fRX4kdI-1" target="Q2SOHH1CEXgP1fRX4kdI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-1" value="开始串行发布" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-7" value="不使用分组串行发布" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Q2SOHH1CEXgP1fRX4kdI-4" target="Q2SOHH1CEXgP1fRX4kdI-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-8" value="使用分组串行发布" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q2SOHH1CEXgP1fRX4kdI-4" target="Q2SOHH1CEXgP1fRX4kdI-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-4" value="选择串行发布模式" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="175" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-6" value="原有发布逻辑" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-9" value="配置分组串行发布" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-11" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="580" y="40" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-16" value="页面自动刷新" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q2SOHH1CEXgP1fRX4kdI-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="250" as="sourcePoint" />
+            <mxPoint x="800" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-20" value="分组串行发布页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="185" width="150" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-21" value="保存配置" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Q2SOHH1CEXgP1fRX4kdI-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="245" as="sourcePoint" />
+            <mxPoint x="610" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q2SOHH1CEXgP1fRX4kdI-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-27" value="启动所有串行发布/启动发布" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2SOHH1CEXgP1fRX4kdI-29" value="开始串行发布" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-3DCe1lXib2HX8ghDhXW-1" value="分组串行发布页面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-3DCe1lXib2HX8ghDhXW-2" value="原有版本计划生产发布页面(未配置分组串发之前显示)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-40" width="190" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
