@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T01:34:13.904Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="GR55DgZYpfEtiE7rc50x" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T10:55:57.826Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="ed-9LweWgOvsHu5zZhmW" version="14.9.2" type="github">
   <diagram id="2o1MXiXTRNLFiXY1eDMz" name="第 1 页">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="z8GsdSjctpBFmCrDPNYD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8GsdSjctpBFmCrDPNYD-1" target="z8GsdSjctpBFmCrDPNYD-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z8GsdSjctpBFmCrDPNYD-1" value="使用分组发布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z8GsdSjctpBFmCrDPNYD-1" value="使用分组发布" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z8GsdSjctpBFmCrDPNYD-7" value="创建版本计划分组配置" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8GsdSjctpBFmCrDPNYD-3" target="z8GsdSjctpBFmCrDPNYD-6">
@@ -15,13 +15,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z8GsdSjctpBFmCrDPNYD-3" value="获取应用默认的分组配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z8GsdSjctpBFmCrDPNYD-3" value="获取应用默认的分组配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="284" y="200" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z8GsdSjctpBFmCrDPNYD-5" value="请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="z8GsdSjctpBFmCrDPNYD-6" value="使用分组发布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z8GsdSjctpBFmCrDPNYD-6" value="页面进入分组发布模式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="600" y="200" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z8GsdSjctpBFmCrDPNYD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8GsdSjctpBFmCrDPNYD-8" target="z8GsdSjctpBFmCrDPNYD-10">
@@ -29,7 +29,7 @@
             <mxPoint x="210" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z8GsdSjctpBFmCrDPNYD-8" value="编辑分组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z8GsdSjctpBFmCrDPNYD-8" value="编辑分组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z8GsdSjctpBFmCrDPNYD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z8GsdSjctpBFmCrDPNYD-10">
@@ -47,13 +47,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z8GsdSjctpBFmCrDPNYD-10" value="保存分组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z8GsdSjctpBFmCrDPNYD-10" value="保存分组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z8GsdSjctpBFmCrDPNYD-14" value="选择主机分组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="360" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="z8GsdSjctpBFmCrDPNYD-16" value="后端修改版本计划分组配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z8GsdSjctpBFmCrDPNYD-16" value="后端修改版本计划分组配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
